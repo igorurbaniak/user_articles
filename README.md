@@ -1,16 +1,12 @@
-# user_articles
+Application with users and assigned articles
 
-A new Flutter project.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/106092123/181095578-f408c2a1-baed-4aac-9acd-b7700915a8e7.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/106092123/181095663-f997d834-7985-47fe-832a-3c19c53e30b5.png" width="300" height="600" />
+</p>
 
-## Getting Started
+<p float="left">
+<img src="https://user-images.githubusercontent.com/106092123/181095750-9b4ebd04-2fa4-455a-9536-48f90d63d2b8.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/106092123/181095839-2b7d2587-ce8b-4b8b-bfcf-eff0aea7c47d.png" width="300" height="600" />
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
